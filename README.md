@@ -1,16 +1,18 @@
-## Hi there 👋
+## HOLA, mi nombre es Angel Manuel Bojorquez Rosas
 
-<!--
-**AngelRosas15/AngelRosas15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sobre mí
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería Biomédica en el Tecnológico de Monterrey y jugador del equipo universitario Borregos de baloncesto. Soy de México y me apasiona la tecnología, la salud y la biomecánica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me considero una persona con iniciativa, liderazgo y trabajo en equipo. Siempre busco aprender cosas nuevas y aplicar mis conocimientos en proyectos innovadores.
+
+🏀 Áreas de interés
+	•	Innovación médica y biomecánica.
+	•	Desarrollo de tecnología aplicada a la salud.
+	•	Programación y modelado de sistemas biomédicos.
+	•	Rendimiento deportivo y rehabilitación.
+
+🛠️ Habilidades y tecnologías
+	•	Programación: Python, MATLAB, C++.
+  •	Analisis de datos.
+  •	Analisis de circuitos.
